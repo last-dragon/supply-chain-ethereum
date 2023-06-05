@@ -36,10 +36,10 @@ const Home = () => {
         Made By:{" "}
         <a
           style={{ color: "#00BFFF" }}
-          href="https://github.com/CodeNinja04"
+          href="https://github.com/last-dragon"
           target="_blank"
         >
-          Hemendra Sharma{" "}
+          L@st-Dragon{" "}
         </a>
       </p>
     </div>
