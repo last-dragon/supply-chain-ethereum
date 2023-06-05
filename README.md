@@ -60,10 +60,6 @@ Smart Contract based Supply Chain Management for Data Integrity and Anti-Tamperi
 
 # SCREENSHOTS
 
-<p>HOME PAGE </p>
-
-![](Screenshots/Home.png)
-
 <p>PRODUCTS PAGE</p>
 
 ![](Screenshots/Products.png)
